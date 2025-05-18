@@ -57,17 +57,19 @@ Exemplo de JSON:
   "tamanho": "Médio",
   "preco": 59.90
 }
+```
 
 ### ✏️ PUT /brinquedos/{id}
 Exemplo de JSON:
 
-{
+```json{
   "nome": "Carrinho Turbo 2.0",
   "tipo": "Veículo",
   "classificacao": "3+",
   "tamanho": "Grande",
   "preco": 79.90
 }
+```
 
 ### 🗑️ DELETE /brinquedos/{id}
 Remove um brinquedo do banco de dados pelo ID.
