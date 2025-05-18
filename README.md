@@ -1,7 +1,7 @@
 # Empresa-brinquedos
 Checkpoint 3 para a matéria de Java Advanced
 
-#🧸 Sistema de Cadastro de Brinquedos
+🧸 Sistema de Cadastro de Brinquedos
 Projeto desenvolvido em Java com Spring Boot para gerenciar um catálogo de brinquedos de uma empresa voltada para crianças de até 14 anos.
 
 | Nome           | RM        |
