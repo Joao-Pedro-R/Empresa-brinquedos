@@ -49,6 +49,7 @@ Editar
   "tamanho": "Médio",
   "preco": 59.90
 }
+
 ###✏️ PUT /brinquedos/{id}
 Exemplo de JSON:
 json
@@ -61,5 +62,6 @@ Editar
   "tamanho": "Grande",
   "preco": 79.90
 }
+
 ###🗑️ DELETE /brinquedos/{id}
 Remove um brinquedo do banco de dados pelo ID.
