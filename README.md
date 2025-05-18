@@ -17,15 +17,25 @@ O sistema permite o Cadastro, Consulta, Atualização e Exclusão (CRUD) de brin
 
 ## 🛠️ Tecnologias Utilizadas
 -Java 17
+
 -Spring Boot 3.x
+
 -Maven
+
 -Spring Web
+
 -Spring Data JPA
+
 -Hibernate
+
 -Validation Beans
+
 -Oracle SQL Developer
+
 -Postman
+
 -IDE: IntelliJ IDEA / Eclipse
+
 
 ![image](https://github.com/user-attachments/assets/6153c93f-1771-4686-9da9-76859253c48f)
 
