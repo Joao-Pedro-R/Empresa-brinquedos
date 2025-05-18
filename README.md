@@ -1,10 +1,11 @@
 # Empresa-brinquedos
-Checkpoint 3 Java Advanced
+🧸 Sistema de Cadastro de Brinquedos
+Projeto desenvolvido em Java com Spring Boot para gerenciar um catálogo de brinquedos de uma empresa voltada para crianças de até 14 anos.
 
 | Nome           | RM        |
 |----------------|-----------|
 | Daniel Akiyama | RM 558263 |
-| Danilo CorreIa | RM 557540 |
+| Danilo Correia | RM 557540 |
 | João Pedro R   | RM 558199 |
 
 
