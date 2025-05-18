@@ -49,9 +49,7 @@ Consulta um brinquedo específico pelo ID.
 
 ### ➕ POST /brinquedos
 Exemplo de JSON:
-json
-Copiar
-Editar
+
 {
   "nome": "Carrinho Turbo",
   "tipo": "Veículo",
@@ -62,9 +60,7 @@ Editar
 
 ### ✏️ PUT /brinquedos/{id}
 Exemplo de JSON:
-json
-Copiar
-Editar
+
 {
   "nome": "Carrinho Turbo 2.0",
   "tipo": "Veículo",
