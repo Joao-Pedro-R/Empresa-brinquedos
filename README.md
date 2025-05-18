@@ -1,5 +1,6 @@
 # Empresa-brinquedos
 Checkpoint 3 para a matéria de Java Advanced
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ##🧸 Sistema de Cadastro de Brinquedos
 Projeto desenvolvido em Java com Spring Boot para gerenciar um catálogo de brinquedos de uma empresa voltada para crianças de até 14 anos.
@@ -29,6 +30,7 @@ O sistema permite o Cadastro, Consulta, Atualização e Exclusão (CRUD) de brin
 ![image](https://github.com/user-attachments/assets/6153c93f-1771-4686-9da9-76859253c48f)
 
 ##📂 Endpoints da API
+
 ###🔍 GET /brinquedos
 Lista todos os brinquedos cadastrados.
 
