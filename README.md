@@ -51,10 +51,10 @@ Consulta um brinquedo específico pelo ID.
 Exemplo de JSON:
 
 ```json{
-  "nome": "Carrinho Turbo",
+  "nome": "Carrinho HotWheels",
   "tipo": "Veículo",
   "classificacao": "3+",
-  "tamanho": "Médio",
+  "tamanho": "Pequeno",
   "preco": 59.90
 }
 ```
@@ -63,11 +63,11 @@ Exemplo de JSON:
 Exemplo de JSON:
 
 ```json{
-  "nome": "Carrinho Turbo 2.0",
+  "nome": "Carrinho HotWheels",
   "tipo": "Veículo",
-  "classificacao": "3+",
-  "tamanho": "Grande",
-  "preco": 79.90
+  "classificacao": "6+",
+  "tamanho": "Pequeno",
+  "preco": 69.90
 }
 ```
 
