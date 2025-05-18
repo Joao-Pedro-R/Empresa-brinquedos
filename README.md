@@ -50,7 +50,7 @@ Consulta um brinquedo específico pelo ID.
 ### ➕ POST /brinquedos
 Exemplo de JSON:
 
-{
+```json{
   "nome": "Carrinho Turbo",
   "tipo": "Veículo",
   "classificacao": "3+",
