@@ -42,8 +42,12 @@ O sistema permite o Cadastro, Consulta, Atualização e Exclusão (CRUD) de brin
 ### 🔍 GET /brinquedos
 Lista todos os brinquedos cadastrados.
 
+![image](https://github.com/user-attachments/assets/350fa4f6-d51b-4b59-9f35-1e8d8d7cf8cd)
+
 #### 🔍 GET /brinquedos/{id}
 Consulta um brinquedo específico pelo ID.
+
+![image](https://github.com/user-attachments/assets/cc73174e-83d9-4efe-bb68-bd8446e3738b)
 
 ### ➕ POST /brinquedos
 Exemplo de JSON:
@@ -57,6 +61,9 @@ Exemplo de JSON:
 }
 ```
 
+![image](https://github.com/user-attachments/assets/d168480f-f9df-43e4-ba78-f668cd4ccb4e)
+
+
 ### ✏️ PUT /brinquedos/{id}
 Exemplo de JSON:
 
@@ -69,5 +76,10 @@ Exemplo de JSON:
 }
 ```
 
+![image](https://github.com/user-attachments/assets/697aa551-fc4f-4065-8dfe-d6106f610ae2)
+
 ### 🗑️ DELETE /brinquedos/{id}
 Remove um brinquedo do banco de dados pelo ID.
+
+![image](https://github.com/user-attachments/assets/32e61514-b11d-4ecb-ba47-c1e6c5a51030)
+
