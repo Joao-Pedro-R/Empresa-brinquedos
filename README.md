@@ -50,6 +50,7 @@ Consulta um brinquedo específico pelo ID.
 ![image](https://github.com/user-attachments/assets/cc73174e-83d9-4efe-bb68-bd8446e3738b)
 
 ### ➕ POST /brinquedos
+Insere um brinquedo no banco de dados
 Exemplo de JSON:
 
 ```json{
@@ -65,6 +66,7 @@ Exemplo de JSON:
 
 
 ### ✏️ PUT /brinquedos/{id}
+Modifica um brinquedo especificado por id no banco de dados
 Exemplo de JSON:
 
 ```json{
